@@ -1,0 +1,2 @@
+# Clendaai
+Manufacturing automate 
